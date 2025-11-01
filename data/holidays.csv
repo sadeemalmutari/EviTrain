@@ -1,0 +1,102 @@
+Year,Sector,StartDate,EndDate,HolidayName,Total,Region,Notes
+2017-2018,Student,2018-01-14,2018-01-18,Mid-year break,5,sa,
+2017-2018,Student,2017-06-25,2017-07-01,Eid al-Fitr Holiday,7,sa,
+2017-2018,Student,2017-09-01,2017-09-05,Eid al-Adha Holiday,5,sa,
+2017-2018,Student,2017-09-23,2017-09-23,Saudi National Day,1,sa,
+2018-2019,Student,2018-12-30,2019-01-03,Mid-year break,5,sa,
+2018-2019,Student,2018-06-15,2018-06-17,Eid al-Fitr Holiday,3,sa,
+2018-2019,Student,2018-08-20,2018-08-23,Eid al-Adha Holiday,4,sa,
+2018-2019,Student,2018-09-23,2018-09-23,Saudi National Day,1,sa,
+2019-2020,Student,2020-01-05,2020-01-16,Mid-year break,12,sa,
+2019-2020,Student,2019-06-04,2019-06-05,Eid al-Fitr Holiday,2,sa,
+2019-2020,Student,2019-08-10,2019-08-13,Eid al-Adha Holiday,4,sa,
+2019-2020,Student,2019-09-23,2019-09-23,Saudi National Day,1,sa,
+2020-2021,Student,2020-12-19,2021-01-06,Mid-year break,18,sa,
+2020-2021,Student,2020-05-24,2020-05-26,Eid al-Fitr Holiday,3,sa,
+2020-2021,Student,2020-07-31,2020-08-02,Eid al-Adha Holiday,3,sa,
+2020-2021,Student,2020-09-23,2020-09-23,Saudi National Day,1,sa,
+2021-2022,Student,2021-12-19,2022-01-06,Mid-year break,18,sa,
+2021-2022,Student,2021-05-12,2021-05-14,Eid al-Fitr Holiday,3,sa,
+2021-2022,Student,2021-07-19,2021-07-21,Eid al-Adha Holiday,3,sa,
+2021-2022,Student,2021-09-23,2021-09-23,Saudi National Day,1,sa,
+2022-2023,Student,2022-12-16,2023-01-07,Winter Break,22,sa,
+2022-2023,Student,2023-02-22,2023-03-02,Second semester holidays,10,sa,
+2022-2023,Student,2023-03-28,2023-04-14,Eid al-Fitr Holidays,17,sa,
+2022-2023,Student,2022-05-02,2022-05-04,Eid al-Fitr Holiday,3,sa,
+2022-2023,Student,2022-07-09,2022-07-10,Eid al-Adha Holiday,2,sa,
+2022-2023,Student,2022-09-23,2022-09-23,Saudi National Day,1,sa,
+2023-2024,Student,2024-01-04,2024-01-13,Winter Break,10,sa,
+2023-2024,Student,2024-03-30,2024-04-11,Spring Break,13,sa,
+2023-2024,Student,2024-06-10,2024-08-18,Year End Holidays,69,sa,
+2023-2024,Student,2023-04-21,2023-04-26,Eid al-Fitr Holiday,6,sa,
+2023-2024,Student,2023-06-28,2023-06-30,Eid al-Adha Holiday,3,sa,
+2023-2024,Student,2023-09-23,2023-09-23,Saudi National Day,1,sa,
+2024-2025,Student,2024-12-15,2025-01-02,Winter Break,18,sa,
+2024-2025,Student,2024-04-10,2024-04-13,Eid al-Fitr Holiday,4,sa,
+2024-2025,Student,2024-06-16,2024-06-18,Eid al-Adha Holiday,3,sa,
+2024-2025,Student,2024-09-23,2024-09-23,Saudi National Day,1,sa,
+2025-2026,Student,2025-03-30,2025-04-03,Eid al-Fitr Holiday,5,sa,
+2025-2026,Student,2025-06-13,2025-06-15,Eid al-Adha Holiday,3,sa,
+2025-2026,Student,2025-09-23,2025-09-23,Saudi National Day,1,sa,
+2017,Public,2017-06-25,2017-07-01,Eid al-Fitr,7,sa,
+2017,Public,2017-09-01,2017-09-05,Eid al-Adha,5,sa,
+2017,Public,2017-09-23,2017-09-23,Saudi National Day,1,sa,
+2017,Private,2017-06-25,2017-06-29,Eid al-Fitr,5,sa,Expected
+2017,Private,2017-09-01,2017-09-03,Eid al-Adha,3,sa,Expected
+2017,Private,2017-09-23,2017-09-23,Saudi National Day,1,sa,
+2018,Public,2018-06-15,2018-06-17,Eid al-Fitr,3,sa,
+2018,Public,2018-08-20,2018-08-23,Eid al-Adha,4,sa,
+2018,Public,2018-09-23,2018-09-23,Saudi National Day,1,sa,
+2018,Private,2018-06-15,2018-06-17,Eid al-Fitr,3,sa,Expected
+2018,Private,2018-08-20,2018-08-22,Eid al-Adha,3,sa,Expected
+2018,Private,2018-09-23,2018-09-23,Saudi National Day,1,sa,
+2019,Public,2019-06-04,2019-06-05,Eid al-Fitr,2,sa,
+2019,Public,2019-08-10,2019-08-13,Eid al-Adha,4,sa,
+2019,Public,2019-09-23,2019-09-23,Saudi National Day,1,sa,
+2019,Private,2019-06-04,2019-06-05,Eid al-Fitr,2,sa,Expected
+2019,Private,2019-08-11,2019-08-13,Eid al-Adha,3,sa,Expected
+2019,Private,2019-09-23,2019-09-23,Saudi National Day,1,sa,
+2020,Public,2020-05-24,2020-05-26,Eid al-Fitr,3,sa,
+2020,Public,2020-07-31,2020-08-02,Eid al-Adha,3,sa,
+2020,Public,2020-09-23,2020-09-23,Saudi National Day,1,sa,
+2020,Private,2020-05-24,2020-05-26,Eid al-Fitr,3,sa,Expected
+2020,Private,2020-07-31,2020-08-02,Eid al-Adha,3,sa,Expected
+2020,Private,2020-09-23,2020-09-23,Saudi National Day,1,sa,
+2021,Public,2021-05-12,2021-05-14,Eid al-Fitr,3,sa,
+2021,Public,2021-07-19,2021-07-21,Eid al-Adha,3,sa,
+2021,Public,2021-09-23,2021-09-23,Saudi National Day,1,sa,
+2021,Private,2021-05-13,2021-05-16,Eid al-Fitr,4,sa,Expected
+2021,Private,2021-07-20,2021-07-22,Eid al-Adha,3,sa,Expected
+2021,Private,2021-09-23,2021-09-23,Saudi National Day,1,sa,
+2022,Public,2022-05-02,2022-05-04,Eid al-Fitr,3,sa,
+2022,Public,2022-07-09,2022-07-10,Eid al-Adha,2,sa,
+2022,Public,2022-09-23,2022-09-23,Saudi National Day,1,sa,
+2022,Public,2022-02-22,2022-02-22,Founding Day,1,sa,
+2022,Private,2022-05-02,2022-05-05,Eid al-Fitr,4,sa,Expected
+2022,Private,2022-07-09,2022-07-12,Eid al-Adha,4,sa,Expected
+2022,Private,2022-09-23,2022-09-23,Saudi National Day,1,sa,
+2022,Private,2022-02-22,2022-02-22,Founding Day,1,sa,
+2023,Public,2023-04-21,2023-04-26,Eid al-Fitr,6,sa,
+2023,Public,2023-06-28,2023-06-30,Eid al-Adha,3,sa,
+2023,Public,2023-09-23,2023-09-23,Saudi National Day,1,sa,
+2023,Public,2023-02-22,2023-02-23,Founding Day,2,sa,
+2023,Private,2023-04-22,2023-04-26,Eid al-Fitr,5,sa,Expected
+2023,Private,2023-06-28,2023-06-30,Eid al-Adha,3,sa,Expected
+2023,Private,2023-09-23,2023-09-23,Saudi National Day,1,sa,
+2023,Private,2023-02-22,2023-02-22,Founding Day,1,sa,
+2024,Public,2024-04-10,2024-04-13,Eid al-Fitr,4,sa,
+2024,Public,2024-06-16,2024-06-18,Eid al-Adha,3,sa,
+2024,Public,2024-09-23,2024-09-23,Saudi National Day,1,sa,
+2024,Public,2024-02-22,2024-02-22,Founding Day,1,sa,
+2024,Private,2024-04-10,2024-04-13,Eid al-Fitr,4,sa,Expected
+2024,Private,2024-06-15,2024-06-18,Eid al-Adha,4,sa,Expected
+2024,Private,2024-09-23,2024-09-23,Saudi National Day,1,sa,
+2024,Private,2024-02-22,2024-02-22,Founding Day,1,sa,
+2025,Public,2025-03-30,2025-04-03,Eid al-Fitr,5,sa,[1]
+2025,Public,2025-06-13,2025-06-15,Eid al-Adha,3,sa,[1]
+2025,Public,2025-09-23,2025-09-23,Saudi National Day,1,sa,[1]
+2025,Public,2025-02-22,2025-02-23,Founding Day,2,sa,[2]
+2025,Private,2025-03-31,2025-04-03,Eid al-Fitr,4,sa,Expected [2]
+2025,Private,2025-06-13,2025-06-15,Eid al-Adha,3,sa,Expected [2]
+2025,Private,2025-09-23,2025-09-23,Saudi National Day,1,sa,
+2025,Private,2025-02-22,2025-02-22,Founding Day,1,sa,

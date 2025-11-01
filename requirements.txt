@@ -1,0 +1,36 @@
+# EVi - Exit Duration Predictor Requirements
+
+# Web Framework
+streamlit>=1.51.0
+
+# Machine Learning
+catboost>=1.2.8
+lightgbm>=4.6.0
+scikit-learn>=1.7.2
+joblib>=1.5.2
+
+# Data Processing
+pandas>=2.2.3
+numpy>=2.2.0
+scipy>=1.15.3
+
+# Visualization
+plotly>=6.1.2
+seaborn>=0.13.2
+matplotlib>=3.9.3
+
+# Image Processing
+pillow>=11.0.0
+
+# Utilities
+python-dateutil>=2.9.0
+pytz>=2024.2
+
+# Development (optional)
+# pytest>=7.4.0
+# black>=24.0.0
+# flake8>=6.1.0
+# mypy>=1.7.0
+# jupyter>=1.0.0
+# notebook>=7.0.0
+
